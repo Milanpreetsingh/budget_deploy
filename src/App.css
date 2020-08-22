@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+
+.Container input{ 
+  margin-right:16px;
+  }
+.margin{
+    width: 900px;
+    cursor: grab;
+    
+  }
+.margin1:hover{
+  background-color: green;
+} 
+.absolute {
+  position: absolute;
+  right: 150px;
+  width: 200px;
+  height: 50px;
+} 
+ 
+.absolute1 {
+  position: absolute;
+  left: 150px;
+  width: 200px;
+  height: 50px;
+} 
+
+.margin2{
+  border: 2px solid black;
+  margin: 10px;
+  border-radius:25px;
+  padding: 5px;
+}
+
+.nav{
+  background-color:royalblue;
+  border: 1px solid royalblue ;
+}
+
